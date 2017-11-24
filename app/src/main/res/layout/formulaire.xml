@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FABE"
+    android:background="#0066CC"
     android:orientation="vertical"
     android:weightSum="1">
 
@@ -134,7 +134,8 @@
             android:text="S'inscrire"
             android:layout_marginTop="150dp"
             android:layout_marginLeft="450px"
-            android:background="#EEEA"/>
+            android:background="#660000"
+            android:textColor="#FFF"/>
 
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
